@@ -22,6 +22,6 @@ PROJECT4:REMOTE CONTROLLED CAR USING NODE MCU(ESP8266) (2021)
 A remote-controlled car that can be controlled wirelessly through a smartphone application. 
 Made using Node MCU ESP8266 which was interfaced with motors, Lithium-ion batteries, and L298motor driver.
 
-The video link for few these projects can be found in this drive link:
+The video link for of few these projects can be found in this drive link:
 https://drive.google.com/drive/folders/1BSSlEy2KDYG8hoqujUqgbQQZL_rH6KsF?usp=share_link
 
