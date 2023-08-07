@@ -59,8 +59,7 @@ void loop() {
 
     if ( flag == 6)
     {
-      //work();
-      MoveBot();
+      work()
       Serial.print("I have been allocated");
     }
     else if ( flag == 8)
