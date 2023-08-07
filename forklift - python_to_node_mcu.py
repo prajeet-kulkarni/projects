@@ -12,14 +12,7 @@ cap.set(4,480)
 
 myData = ""
 temp = "0"
-def signal_handler(sig, frame):
-    print('Clean-up !')
-    cleanup()
-    sys.exit(0)
 
-def cleanup():
-    s.close()
-    print("cleanup done")
 
 ip = "192.168.238.238"     #Enter IP address of laptop after connecting it to WIFI hotspot
 
